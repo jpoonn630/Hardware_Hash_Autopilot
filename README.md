@@ -7,7 +7,7 @@ Creating an usb stick, that enable users to scape for Autopilot enrollment
 4) For a quicker process, can create a cmd file.
   Steps:
     - Open notepad
-    - Copy this in
+    - Copy this in, and safe notepad as cmd file
 ```
 @echo off
 :: Collect Autopilot hardware hash to D:\compHash.csv
@@ -16,7 +16,6 @@ echo.
 echo ✅ Hardware hash collected to %~dp0compHash.csv
 pause
 ```
-  - Then save the notepad as cmd
 5) Done
 
   - To use open cmd as admin
