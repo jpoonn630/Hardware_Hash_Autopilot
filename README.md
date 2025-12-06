@@ -15,7 +15,8 @@ PowerShell -NoProfile -ExecutionPolicy Unrestricted -File "%~dp0Get-WindowsAutoP
 echo.
 echo ✅ Hardware hash collected to %~dp0compHash.csv
 pause
-``` - Then save the notepad as cmd
+```
+  - Then save the notepad as cmd
 5) Done
 
 - To use open cmd as admin
