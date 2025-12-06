@@ -19,10 +19,10 @@ pause
   - Then save the notepad as cmd
 5) Done
 
-- To use open cmd as admin
-- Navigate by your usb drive. eg C:\Windows\System32>D:
-- D:\>get-hash.cmd
-- It will then scrape and a, excel file called "mycurrenthash" will be created inside the usb directory, ready to be upload to autopilot enrollment
+  - To use open cmd as admin
+  - Navigate by your usb drive. eg C:\Windows\System32>D:
+  - D:\>get-hash.cmd
+  - It will then scrape and a, excel file called "mycurrenthash" will be created inside the usb directory, ready to be upload to autopilot enrollment
 
 
 
