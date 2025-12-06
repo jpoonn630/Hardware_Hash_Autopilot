@@ -19,9 +19,9 @@ pause
 5) Done
 
   - To use open cmd as admin
-  - Navigate by your usb drive. eg C:\Windows\System32>D:
+  - Navigate to your usb drive. eg C:\Windows\System32>D:
   - D:\>get-hash.cmd
-  - It will then scrape and a, excel file called "mycurrenthash" will be created inside the usb directory, ready to be upload to autopilot enrollment
+  - It will then scrape an excel file called "mycurrenthash". It will be created inside the usb directory, ready to be use and upload to autopilot enrollment
 
 
 
