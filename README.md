@@ -1,5 +1,5 @@
 # Hardware_Hash_Autopilot
-Creating an usb stick, that enable users to scape for Autopilot enrollment
+Creating an usb stick, that enable users to scrape for Autopilot enrollment
 
 1) Going into powerhsell as admin
 2) Run this command Install-Script -Name Get-WindowsAutoPilotInfo
